@@ -20,3 +20,44 @@
     cursor: pointer;
 
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    
+    background-image: linear-gradient(80deg,rgb(250, 179, 48) 0%, rgb(197, 129, 2) 100%);
+}
+.cat2{
+    background-image: linear-gradient(80deg,rgb(223, 97, 190) 0%, rgb(141, 38, 138) 100%);
+}
+.cat3{
+    background-image: linear-gradient(80deg, rgb(85, 85, 200) 0%, rgb(0, 0, 167) 100%);
+}
+.cetegories h1{
+    color: white;
+}
+.cetegories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+  
+
+}
+.card-footer{
+    background-color: white;
+    border-top: 0;
+}
+#contact{
+    height: 300px;
+
+}
+#contact h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
